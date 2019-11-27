@@ -1,4 +1,4 @@
-# Python package for data plotting.
+# Python package for data plotting
 
 The input data file (plenty.data) contains a single field. Each row contains 11 comma-delimited values.
 
